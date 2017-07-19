@@ -1,0 +1,30 @@
+
+https://forum.magicmirror.builders/topic/1457/my-1st-magicmirror2/2?page=1
+
+Monitor Maße
+Außen
+Innen
+
+Außenrahmen:
+
+4 Bretter, maße x y z
+4 Winkel Maße
+16 Schrauben für die Winkel, Länge und Maße?
+
+Innerer Halterahmen:
+
+4 Bretter, Maße x y z
+8 kleine Winkel Maße
+32 kleine Schrauben für die Winkel, Maße?
+
+Elektronik:
+
+2er Steckdose
+Raspberry Pie 2 Stromversorgung
+Monitor Powerkabel
+HDMI auf DVI Adapter / Kabel
+Netzwerkkabel? Male / Female Wandler / wie einbauen?
+Oder besser: WLAN Adapter für Raspberry 2
+USB-Kabel 2x -> Male / Female Wandler
+
+
